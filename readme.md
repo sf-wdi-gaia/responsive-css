@@ -211,6 +211,26 @@ What will this code do?
  </div>
 ```
 
+
+###Challenge: Grid it
+
+Using the bootstrap grid, make a grid that is 3 Columns on Tablet (sm), Laptop (md), and Desktop (lg), 1 Column on Mobile(sm).
+
+<details><summary>Sample code</summary>
+
+```html
+<div class="row">
+  <h3 class='text-center'>3 Columns on Tablet, Laptop, and Desktop, 1 Column on Mobile</h3>
+  <div class="col-sm-4 col-xs-12">Yao</div>
+  <div class="col-sm-4 col-xs-12">Hey</div>
+  <div class="col-sm-4 col-xs-12">Ola</div>
+</div>
+```
+
+</details>
+
+
+
 For other examples, check out the [Bootstrap docs](http://getbootstrap.com/css/#grid)  
 
 ##Offsets & Nesting
@@ -300,7 +320,6 @@ Bootstrap helps you format images using `class="img-rounded"` (rounds the corner
 
 ###Forms
 Bootstrap is also very helpful when you need to style your forms. All textual `<input>`, `<textarea>`, and `<select>` elements with `class="form-control"` are set to width: 100% by default. Wrap labels and their associated controls (inputs) in `class="form-group"` for optimum spacing. 
- 
 
 ###Javascript plug-ins
 Bootstrap allows you to incorporate interactive behavior into your page with Javascript plug-ins.  While you would ultimately have to write some JS in order for these components to provide actual functionality within the application, you don't have to write JS if you're simply mocking up a UI.
@@ -313,6 +332,10 @@ Some examples:
 - [Modals](http://getbootstrap.com/javascript/#modals)
 - [Carousels](http://getbootstrap.com/javascript/#carousel)
 
+###Challenge: Choose your own adventure
+
+Pick some aspect of Bootstrap that interests you. Spend 5-10 minutes learning how it works and be prepared to share it with the rest of the class.
+
 ##Closing Thoughts
 
 Bootstrap demonstrates good practices in terms of exemplifying class-based CSS and introducing the concept of a grid-system. It is useful for most projects where style is somewhat important but not the central to the product.
@@ -322,3 +345,4 @@ Bootstrap demonstrates good practices in terms of exemplifying class-based CSS a
 - [Foundation](http://foundation.zurb.com/) - another CSS-library, similar to Bootstrap
 - [Skeleton](http://getskeleton.com/) - a lovely, minimal, unopinionated CSS library
 - [Materialize](http://materializecss.com/) - front-end framework based on "material design"
+- [Hipster Ipsum](http://hipsum.co/) - Dummy placeholder "hipster" text
