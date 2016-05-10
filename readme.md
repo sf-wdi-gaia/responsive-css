@@ -214,7 +214,7 @@ What will this code do?
 
 ###Challenge: Grid it
 
-Using the bootstrap grid, make a grid that is 3 Columns on Tablet (sm), Laptop (md), and Desktop (lg), 1 Column on Mobile(sm).
+Using the bootstrap grid, make a grid that is 3 Columns on Tablet (sm), Laptop (md), and Desktop (lg), 1 Column on Mobile(xs).
 
 <details><summary>Sample code</summary>
 
