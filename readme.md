@@ -345,4 +345,5 @@ Bootstrap demonstrates good practices in terms of exemplifying class-based CSS a
 - [Foundation](http://foundation.zurb.com/) - another CSS-library, similar to Bootstrap
 - [Skeleton](http://getskeleton.com/) - a lovely, minimal, unopinionated CSS library
 - [Materialize](http://materializecss.com/) - front-end framework based on "material design"
+- [Block Element Modifier methodology](http://getbem.com/introduction/)
 - [Hipster Ipsum](http://hipsum.co/) - Dummy placeholder "hipster" text
