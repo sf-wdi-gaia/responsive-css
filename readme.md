@@ -193,6 +193,5 @@ Most grid systems divide each row into 12 columns. Why 12? Well, 12 is the best 
 
 - The beginning of [responsive web design](http://alistapart.com/article/responsive-web-design)
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [BEM](https://css-tricks.com/bem-101/)
-- [Placeholder Text](https://hipsum.co/)
+- [BEM](https://css-tricks.com/bem-101/)	
 - [Responsive images](https://www.sitepoint.com/how-to-build-responsive-images-with-srcset/)
