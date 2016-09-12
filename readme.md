@@ -160,7 +160,6 @@ Most grid systems divide each row into 12 columns. Why 12? Well, 12 is the best 
     2 + 2 + 2 + 2 + 2 + 2                           = 12
     1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1   = 12
 
-
 ##CSS Frameworks
 
 * Teaches good practices
@@ -186,24 +185,13 @@ Most grid systems divide each row into 12 columns. Why 12? Well, 12 is the best 
 
 ## Questions
 
-1. What are the three components of responsive web design?
-1. How do we "and" two media queries?
-1. What is the name of the design pattern where the initial designs support mobile, then we move to larger devices?
-
-## Cheatsheet:
-
-- Sizes, sizes, and more sizes
-- fluid media: `img, embed, object, video { max-width: 1 };`
-- `@media (max-width: 400px) { ... }`
-- min/max-width, min/max-height
-- And: `@media (max-width: 400px) and (orientation: portrait) { ... }`
-- Or (comma separated): `@media (min-width: 700px), handheld and (orientation: landscape) { ... }`
+1. What are three important components of responsive web design?
+1. How would you build your own grid system?
+1. Why use a CSS framework?
 
 ## Resources
 
 - The post that introduced us to [responsive web design](http://alistapart.com/article/responsive-web-design)
-- http://screensiz.es
-- http://mediaqueri.es
-- Media Query [Logical Operators](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#Logical_operators)
 - [Viewports](http://www.quirksmode.org/mobile/viewports.html)
-- Book: Responsive Web Design, Ethan Marcotte
+- [Placeholder Text](https://hipsum.co/)
+- [Responsive images](https://www.sitepoint.com/how-to-build-responsive-images-with-srcset/)
