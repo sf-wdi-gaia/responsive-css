@@ -10,7 +10,7 @@ Market: SF
 <!-- framing the "why" in big-picture/real world examples -->
 *This workshop is important because:*
 
-Certain best practices in CSS help us build web applications and sites that looks nice well on a mulitude of devices.
+Certain best practices in CSS help us build web applications and sites that looks nice well on a multitude of devices.
 
 ## What are the objectives?
 <!-- specific/measurable goal for students to achieve -->
@@ -123,7 +123,7 @@ Possible values include:
 * Grids help avoid stressful CSS debugging by starting out on the right foot.
 
 ### Reusability
-* Grids make the layout process easier because of resusable, semantically-named "utility classes" (i.e., a library of CSS class selectors).
+* Grids make the layout process easier because of reusable, semantically-named "utility classes" (i.e., a library of CSS class selectors).
 * Grids aren't limited to a particular project. We can apply them to pretty much everything we do.
 * Grids are highly customizable. You can really make them your own.
 
@@ -131,12 +131,12 @@ _Even if you don't use a grid system, these concepts will translate across other
 
 ### Rows
 
-* Seperates content horizontally
+* Separates content horizontally
 * Contains columns
 
 ### Columns
 
-* Seperates content vertically
+* Separates content vertically
 * Is contained by a row
 
 ### Gutters
@@ -165,7 +165,7 @@ Most grid systems divide each row into 12 columns. Why 12? Well, 12 is the best 
 * Teaches good practices
 * Semantic class names
 * Solid starter code
-* Eleviates cross-browser concerns
+* Aids cross-browser compatibility
 * Built-in grids!
 * Well documented for teams
 
@@ -175,7 +175,7 @@ Most grid systems divide each row into 12 columns. Why 12? Well, 12 is the best 
 
 * Divide up into four groups. Each use Skeleton to accomplish **one** of the objectives. We will then mix up the groups and have a representative from each teach the others how their group accomplished their task.
 
-	1. Impliment the Skeleton grid system to create this:
+	1. Implement the Skeleton grid system to create this:
 	
 		![example grid](https://raw.githubusercontent.com/sf-wdi-26/modules/master/w02/d03/m3-bootstrap/imgs/grid.png)
 	
@@ -193,5 +193,6 @@ Most grid systems divide each row into 12 columns. Why 12? Well, 12 is the best 
 
 - The beginning of [responsive web design](http://alistapart.com/article/responsive-web-design)
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [BEM](https://css-tricks.com/bem-101/)	
+- [BEM](https://css-tricks.com/bem-101/)
 - [Responsive images](https://www.sitepoint.com/how-to-build-responsive-images-with-srcset/)
+
