@@ -72,7 +72,7 @@ Consider what the experience will be on a small screen first. It will be much ea
 
 ###ems & rems
 
-While the [em unit](http://blog.revathskumar.com/2014/04/css-understanding-em-and-rem.html#understanding-em-unit) is relative to the font-size of the parent, which can cause the "compounding issue" if the style is applied to nested elements—children getting smaller and smaller or bigger and bigger as they always refer to the size of their direct parent. Rem stands for "root-em", is relative to the html—element, aka the root.
+While the [em unit](http://blog.revathskumar.com/2014/04/css-understanding-em-and-rem.html#understanding-em-unit) is relative to the font-size of the parent, which can cause the "compounding issue" if the style is applied to nested elements—children getting smaller and smaller or bigger and bigger as they always refer to the size of their direct parent. Rem stands for "root-em", is relative to the `<html>` element, aka the root.
 
 
 ```css
