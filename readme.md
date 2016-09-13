@@ -81,7 +81,7 @@ body { font-size: 1.4rem; } /* =14px */
 h1   { font-size: 2.4rem; } /* =24px */
 ```
 
-A nifty trick: defining a base font-size of 62.5% allows font sizes to be 1/10 of their pixel equivalent.
+>Note: Defining a base font-size of 62.5% allows font sizes to be 1/10 of their pixel equivalent.
 
 ###vw & vh
 
