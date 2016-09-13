@@ -182,6 +182,8 @@ Most grid systems divide each row into 12 columns. Why 12? Well, 12 is the best 
 	2. Display JavaScript code on a webpage using the `code` and `pre` tag.
 	
 	3. Create the front-end interface for a login form.
+	
+	4. Create a table that displays 5 countries' population count, GDP, and Internet [TLD](https://en.wikipedia.org/wiki/Country_code_top-level_domain)
 
 ## Questions
 
